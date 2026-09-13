@@ -1,8 +1,6 @@
-package com.kenanyumer.booklibrary.book;
+package com.kenanyumer.booklibrary.book.model;
 
 import jakarta.persistence.*;
-
-import java.awt.print.Book;
 
 @Table(name="books")
 @Entity
