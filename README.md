@@ -10,7 +10,7 @@ It's also my first time using Maven and IntelliJ.
 - PostgreSQL
 - Maven
 
-Work still in progress !!
+Work still in pause !!
 
 ## Lunch Application
 
